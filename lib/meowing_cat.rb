@@ -5,3 +5,4 @@ class Cat ## code your solution here.
    puts "meow!"
  end
 end
+
